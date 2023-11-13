@@ -11,9 +11,11 @@ Features that I implemented to confirm my understanding :
 - Shadow map + soft shadows
 - Environment settings
 - ImGui
-  
-![image](https://github.com/VincentPHAM98/ProjectVulkanTutorial/assets/100954017/60559be8-2ab6-49c6-88e5-c90b841933d6)
+
+https://github.com/VincentPHAM98/ProjectVulkanTutorial/assets/100954017/3d824461-7773-468a-9e46-54ac9654906c
 
 ## Installation
 
-Open the .sln and run the program
+- Open the .sln
+- Setup the project to add Vulkan, glm and glfw as explained in https://vulkan-tutorial.com/Development_environment
+- Run the program
